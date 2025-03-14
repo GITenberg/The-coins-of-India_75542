@@ -1,0 +1,55 @@
+_repo: The-coins-of-India_75542
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brown, C. J. (Cecil Jermyn)
+    alias: Brown, Cecil Jermyn
+    birthdate: 1886
+    deathdate: 1945
+    gutenberg_agent_id: '58043'
+    url: http://www.gutenberg.org/2009/agents/58043
+  editors:
+  - agent_name: Azariah, Vedanayagam Samuel
+    aliases:
+    - Vedanayagam Samuel Azariah
+    - Azariah, Bishop
+    - Azariah, V. S.
+    - Azariah, V.S.
+    birthdate: 1874
+    deathdate: 1945
+    gutenberg_agent_id: '58045'
+    url: http://www.gutenberg.org/2009/agents/58045
+    wikipedia: https://en.wikipedia.org/wiki/Vedanayagam_Samuel_Azariah
+  - agent_name: Farquhar, J. N. (John Nicol)
+    aliases:
+    - Farquhar, John Nicol
+    - Alexander, Neil
+    birthdate: 1861
+    deathdate: 1929
+    gutenberg_agent_id: '56933'
+    url: http://www.gutenberg.org/2009/agents/56933
+    wikipedia: https://en.wikipedia.org/wiki/J._N._Farquhar
+description: ''
+gutenberg_issued: '2025-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75542'
+  lccn: '23007758'
+language: en
+pgterms:marc904: https://archive.org/details/coinsofindia00browuoft
+pgterms:marc905: 20231213050140brown
+pgterms:marc906: '1922'
+pgterms:marc907: gb
+production_note: Aaron Adrignola and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bOxford University Press, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The heritage of India series
+subjects:
+- !lcsh 'Numismatics -- India'
+- !lcc 'CJ'
+- GITenberg
+title: The coins of India
+url: http://www.gutenberg.org/ebooks/75542
